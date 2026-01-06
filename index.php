@@ -93,55 +93,54 @@ $accordionData = [
 </section>
 
 <section class="mba-offer-section">
-    <div class="container">
-        <h2 class="section-title">Why Choose Liverpool Business School MBA</h2>
-        
-        <div class="offer-grid">
-            <div class="offer-column left">
-                <div class="offer-card">
-                    <div class="card-content">
-                        <h3>Dual Academic Credentials</h3>
-                    </div>
-                    <div class="card-icon"><img src="assets/img/credentials.png" alt="icon"></div>
-                </div>
-                <div class="offer-card">
-                    <div class="card-content">
-                        <h3>Dual Alumni Networks</h3>
-                    </div>
-                    <div class="card-icon"><img src="assets/img/graduation.png" alt="icon"></div>
-                </div>
-                <div class="offer-card">
-                    <div class="card-content">
-                        <h3>Personalised Flexible Curriculum</h3>
-                    </div>
-                    <div class="card-icon"><img src="assets/img/resume.png" alt="icon"></div>
-                </div>
-            </div>
+  <div class="container">
 
-            <div class="offer-column right">
-                <div class="offer-card">
-                    <div class="card-icon"><img src="assets/img/study.png" alt="icon"></div>
-                    <div class="card-content">
-                        <h3>Practical Learning Experience</h3>
-                    </div>
-                </div>
-                <div class="offer-card">
-                    <div class="card-icon"><img src="assets/img/payment.png" alt="icon"></div>
-                    <div class="card-content">
-                        <h3>  Reduce Your Tuition Costs</h3>
-                    </div>
-                </div>
-                <div class="offer-card">
-                    <div class="card-icon"><img src="assets/img/global-network.png" alt="icon"></div>
-                    <div class="card-content">
-                        <h3>Access a Global Community</h3>
-                    </div>
-                </div>
-            </div>
+    <h2 class="section-title">WHAT DOES<br><span>LJMU MBA OFFER?</span></h2>
+
+    <div class="content-wrapper">
+
+      <!-- Left Cards -->
+      <div class="info-column">
+        <div class="info-card">
+          <span class="icon">👤</span>
+          <p>Earn Double<br>Credentials</p>
         </div>
-    </div>
-</section>
 
+        <div class="info-card">
+          <span class="icon">🎓</span>
+          <p>Attain Double<br>Alumni Status</p>
+        </div>
+
+        <div class="info-card">
+          <span class="icon">📝</span>
+          <p>Customise Your<br>Curriculum</p>
+        </div>
+      </div>
+
+      <!-- Center Image -->
+      <div class="center-image"></div>
+
+      <!-- Right Cards -->
+      <div class="info-column">
+        <div class="info-card">
+          <span class="icon">💼</span>
+          <p>Engage in Practical<br>Learning</p>
+        </div>
+
+        <div class="info-card">
+          <span class="icon">💰</span>
+          <p>Save exceptional value<br>on Tuition Fees</p>
+        </div>
+
+        <div class="info-card">
+          <span class="icon">🌍</span>
+          <p>Unlock the Global<br>Network</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
 <section id="whychoose">
 <div class="container">
 <center><h2>Courses offered by <br><span class="green">Liverpool John Moores University Online </span></h2></center>
@@ -265,9 +264,7 @@ SCHOOL</span></h2><br>
        <div class="degree-info">
            <h2>Sample degree of Liverpool John Moores University</h2><br>
        
-           <p>The Liverpool John Moores University Online MBA provides a globally respected business
-qualification degree, combining flexibility with excellence. Liverpool Business School Online
-MBA is accredited as a WES-recognised degree and AACSB membership</p>
+           <p>The Liverpool John Moores University (LJMU) Online MBA is a globally respected business qualification designed for ambitious professionals seeking to advance their careers without compromising their existing personal or professional commitments. Rooted in a strong academic heritage and delivered through a modern digital learning environment, the programme successfully combines flexibility, academic excellence, and real-world business relevance. As one of the UK’s most established universities, Liverpool John Moores University brings decades of teaching, research, and industry engagement into this comprehensive Online MBA, ensuring learners gain both theoretical knowledge and practical skills that can be applied immediately in the workplace.</p>
            <br>
          
            <button class="enquireNowBtn">Get Degree </button>

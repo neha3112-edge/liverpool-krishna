@@ -6,7 +6,7 @@
     <div class="footer-section">
             <div class="footer-column"><br>
                 <img src="assets/img/liverpool-white.png" alt="logo-img" width="50%"/><br><br>
-                  <p style="font-size:30px;">Transform Your Career with a Globally Recognized Online DBA Degree for Business Leaders</p>
+                  <p style="font-size:30px;">Transform Your Career with a Globally Recognized <br>Online DBA Degree for Business Leaders</p>
                
 <!-- <button class="enquireNowBtn">Enquire Now</button> -->
               
