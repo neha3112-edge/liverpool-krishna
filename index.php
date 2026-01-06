@@ -103,17 +103,17 @@ $accordionData = [
       <div class="info-column">
         <div class="info-card">
           <span class="icon">👤</span>
-          <p>Earn Double<br>Credentials</p>
+          <p>Dual Academic<br>Credentials</p>
         </div>
 
         <div class="info-card">
           <span class="icon">🎓</span>
-          <p>Attain Double<br>Alumni Status</p>
+          <p>Dual Alumni<br>Networks</p>
         </div>
 
         <div class="info-card">
           <span class="icon">📝</span>
-          <p>Customise Your<br>Curriculum</p>
+          <p>Personalised Flexible<br>Curriculum</p>
         </div>
       </div>
 
@@ -124,17 +124,17 @@ $accordionData = [
       <div class="info-column">
         <div class="info-card">
           <span class="icon">💼</span>
-          <p>Engage in Practical<br>Learning</p>
+          <p>Hands-On Practical<br>Learning</p>
         </div>
 
         <div class="info-card">
           <span class="icon">💰</span>
-          <p>Save exceptional value<br>on Tuition Fees</p>
+          <p>Reduce Your<br>Tuition Cost</p>
         </div>
 
         <div class="info-card">
           <span class="icon">🌍</span>
-          <p>Unlock the Global<br>Network</p>
+          <p>Access a<br>Global Community</p>
         </div>
       </div>
 
@@ -205,7 +205,7 @@ and risk analysis. The program covers capital budgeting techniques and market fu
         <h2>MBA in Human Resource Management</h2>
 		<p> The Liverpool Business School online MBA in Human Resource Management is designed to
 build strategic HR leaders for modern organisations. Through this program, learners focus on
-Strategic HRM, Core HR operations, and effective outsourcing models.
+Strategic HRM, Core HR operations.
 </p>
         <hr>
         <button class="enquireNowBtn">Apply Now</button>

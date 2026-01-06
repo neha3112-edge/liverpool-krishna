@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 body {
-	font-family: 'outfit', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	margin: 0;
 	padding: 0;
 }
@@ -145,7 +145,7 @@ p {
 .fa{color: var(--yellow-color); font-size: 20px!important;}
 
 .achievement {
-	background-color:#E9E9E9;
+	background-color:#F5F5F5;
 	padding: 20px 10px;
 }
  .ach {
@@ -254,7 +254,7 @@ p {
 
 .about-cnt {
 	display: grid;
-	grid-template-columns: 2fr 3fr;
+	grid-template-columns: 2fr 2fr;
 	gap: 20px;
 	align-items: center;
 }
@@ -648,7 +648,7 @@ p {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Segoe UI", Arial, sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 body {
