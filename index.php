@@ -81,8 +81,8 @@ $accordionData = [
 <section id="overview">
   <div class="container">
     <div class="info">
-      <h2>About <span class="green">Liverpool Online MBA Program</span></h2><br>
-      <p>Liverpool John Moores University Online MBA program is an 18-month personalised and research-driven program that is designed to match the individual needs of all learners.<br> The course offers a powerful combination of double credentials, which enables the learners to achieve an MBA from <strong>Liverpool Business School</strong> along with an <br><strong>Advanced General Management Certificate from IMT Ghaziabad.</strong> <br>This online MBA course is designed in such a format that allows learners to customise their own curriculum by selecting electives aligned with their interests and extended goals.<br> Liverpool Business School MBA program aims to seeks to address the evidence-based needs of confident, capable senior managers. It helps them to combine strategic insight with strong operational excellence. Students also get access to unlock a strong global network, joining a community of <strong>3,000+ alumni</strong> that provides valuable industry connections, insights, and career opportunities worldwide.
+      <h2>ABOUT <span class="green">LIVERPOOL ONLINE MBA PROGRAM</span></h2><br>
+      <p>Liverpool John Moores University Online MBA program is an 18-month personalised and research-driven program that is designed to match the individual needs of all learners.The course offers a powerful combination of double credentials, which enables the learners to achieve an MBA from <strong>Liverpool Business School</strong> along with an <strong>Advanced General Management Certificate from IMT Ghaziabad.</strong> <br>This online MBA course is designed in such a format that allows learners to customise their own curriculum by selecting electives aligned with their interests and extended goals.Liverpool Business School MBA program aims to seeks to address the evidence-based needs of confident, capable senior managers. It helps them to combine strategic insight with strong operational excellence. Students also get access to unlock a strong global network, joining a community of <strong>3,000+ alumni</strong> that provides valuable industry connections, insights, and career opportunities worldwide.
 
 </p>
 <br><div>
@@ -143,77 +143,81 @@ $accordionData = [
 </section>
 <section id="whychoose">
 <div class="container">
-<center><h2>Courses offered by <br><span class="green">Liverpool John Moores University Online </span></h2></center>
+<center><h2>COURSES OFFERED <br><span class="green">LIVERPOOL JOHN MOORES UNIVERSITY ONLINE</span></h2></center>
 <br>
   
 <div class="course-info">
 
     <div class="slide">
-        <img src="assets/img/experienced-professionals.webp" class="img-responsive">
+        <img src="assets/img/Business-Analytics.webp" class="img-responsive">
         <div class="cr-info">
         <h2>MBA in Business Analytics</h2>
 		<p>Liverpool John Moores University Online MBA program builds expertise in Python, covering
 core concepts, data analysis using Pandas and NumPy, and machine learning modelling
 with scikit-learn</p>
-<br>
         <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <br>
+        <button class="enquireNowBtn">Apply Now <i class="fa fa-check" style="color:#fff;"></i></button>
+ <button class="downloadBrochureBtn" style="color: white; background-color: black;  border: none;">Get Brochure <i class="fa fa-download" style="color:#fff;"></i></button>
         </div>
     </div>
 
        <div class="slide">
-        <img src="assets/img/bachelors-degree-holders.webp" class="img-responsive">
+        <img src="assets/img/Finance.webp" class="img-responsive">
        
         <div class="cr-info">
         <h2>MBA in Finance</h2>
-		<p>Liverpool Business School Online MBA in Finance offers a comprehensive approach to
-mastering finance-driven business. It helps learners to gain knowledge in financial modelling
-and risk analysis. The program covers capital budgeting techniques and market fundamentals. </p>
+		<p>Liverpool Business School Online MBA in Finance offers a comprehensive approach to mastering finance-driven business. It helps learners to gain knowledge in financial modelling and risk analysis. </p>
         <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <br>
+        <button class="enquireNowBtn">Apply Now <i class="fa fa-check" style="color:#fff;"></i></button>
+ <button class="downloadBrochureBtn" style="color: white; background-color: black;  border: none;">Get Brochure <i class="fa fa-download" style="color:#fff;"></i></button>
         </div>
     </div>
 
     <div class="slide">
-        <img src="assets/img/aspiring-researchers-and-educators.webp" class="img-responsive">
+        <img src="assets/img/Marketing.webp" class="img-responsive">
     
         <div class="cr-info">
         <h2>MBA in Marketing</h2>
-		<p>The University of Liverpool MBA Online in Marketing is designed to build future-ready marketing leaders. The course delves into digital marketing channels, key performance metrics, social media strategies, and search engine optimisation.
-</p>
+		<p>The Liverpool MBA Online in Marketing is designed to build future-ready marketing leaders. The course delves into digital marketing channels, key performance metrics, and search engine optimization.</p>
         <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <br>
+        <button class="enquireNowBtn">Apply Now <i class="fa fa-check" style="color:#fff;"></i></button>
+ <button class="downloadBrochureBtn" style="color: white; background-color: black;  border: none;">Get Brochure <i class="fa fa-download" style="color:#fff;"></i></button>
         </div>
     </div>
 
     <div class="slide">
-        <img src="assets/img/aspiring-researchers-and-educators.webp" class="img-responsive">
+        <img src="assets/img/Leadership.webp" class="img-responsive">
     
         <div class="cr-info">
         <h2>MBA in Leadership</h2>
-		<p>The Liverpool John Moores University Online MBA in Leadership is a program crafted for learners who want to thrive in a VUCA-driven landscape. This Business School MBA helps professionals to tackle volatility across borders. 
+		<p>The Liverpool John Moores University Online MBA in Leadership is a program crafted for learners in a VUCA-driven landscape. This Business School MBA tackles volatility across borders. 
 </p>
         <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <br>
+        <button class="enquireNowBtn">Apply Now <i class="fa fa-check" style="color:#fff;"></i></button>
+ <button class="downloadBrochureBtn" style="color: white; background-color: black;  border: none;">Get Brochure <i class="fa fa-download" style="color:#fff;"></i></button>
         </div>
     </div>
 
     <div class="slide">
-        <img src="assets/img/aspiring-researchers-and-educators.webp" class="img-responsive">
+        <img src="assets/img/HRM.webp" class="img-responsive">
     
         <div class="cr-info">
         <h2>MBA in Human Resource Management</h2>
-		<p> The Liverpool Business School online MBA in Human Resource Management is designed to
-build strategic HR leaders for modern organisations. Through this program, learners focus on
-Strategic HRM, Core HR operations.
+		<p>The Liverpool Business School online MBA in HRM is designed to build strategic HR leaders for modern organisations. Through this program, learners focus on effective outsourcing models.
 </p>
         <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <br>
+        <button class="enquireNowBtn">Apply Now <i class="fa fa-check" style="color:#fff;"></i></button>
+ <button class="downloadBrochureBtn" style="color: white; background-color: black;  border: none;">Get Brochure <i class="fa fa-download" style="color:#fff;"></i></button>
         </div>
     </div>
 
     <div class="slide">
-        <img src="assets/img/aspiring-researchers-and-educators.webp" class="img-responsive">
+        <img src="assets/img/ops-m.webp" class="img-responsive">
     
         <div class="cr-info">
         <h2>MBA in Operations and Supply Chain Management</h2>
@@ -222,7 +226,9 @@ University empowers professionals to drive strategically in present-day global m
 
 </p>
         <hr>
-        <button class="enquireNowBtn">Apply Now</button>
+        <br>
+        <button class="enquireNowBtn">Apply Now <i class="fa fa-check" style="color:#fff;"></i></button>
+ <button class="downloadBrochureBtn" style="color: white; background-color: black;  border: none;">Get Brochure <i class="fa fa-download" style="color:#fff;"></i></button>
         </div>
     </div>
 </div>
@@ -247,7 +253,7 @@ SCHOOL</span></h2><br>
 
 
     <div class="b1">
-       <img src="assets/img/Layer-39.png">
+       <img src="assets/img/Layer-39-1.png">
 
     </div>
  </div>
@@ -267,7 +273,7 @@ SCHOOL</span></h2><br>
            <p>The Liverpool John Moores University (LJMU) Online MBA is a globally respected business qualification designed for ambitious professionals seeking to advance their careers without compromising their existing personal or professional commitments. Rooted in a strong academic heritage and delivered through a modern digital learning environment, the programme successfully combines flexibility, academic excellence, and real-world business relevance. As one of the UK’s most established universities, Liverpool John Moores University brings decades of teaching, research, and industry engagement into this comprehensive Online MBA, ensuring learners gain both theoretical knowledge and practical skills that can be applied immediately in the workplace.</p>
            <br>
          
-           <button class="enquireNowBtn">Get Degree </button>
+           <button class="enquireNowBtn"> Get Degree <i class="fa fa-check" style="color:#fff;"></i></button>
        </div>
    </div>
    </div>
@@ -294,7 +300,7 @@ network of 3,000+ alumni.
 
 </p><br>
 
-<button class="enquireNowBtn" >Request Call Back</button>
+<button class="enquireNowBtn" ><i class="fa fa-phone" style="color:#fff;"> Request Call Back</i></button>
  
       </div>
   

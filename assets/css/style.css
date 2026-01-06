@@ -10,8 +10,8 @@ body {
 
 :root {
 	--primary-color:  #00408D;
-	--doubt-bg-color: #0197B2;
-	--yellow-color: #0197B2;
+	--doubt-bg-color: #2ad4c3;
+	--yellow-color: #2ad4c3;
 	--red-color: #ff0000;
 	--black-color:#000000;
 	--text-white-color: #ffffff;
@@ -194,7 +194,7 @@ p {
 
 .b1 {
   background: #fff;
-  padding: 10px;
+  padding: 0 px;
 
  /*transition: box-shadow 0.3s ease;
   box-shadow: 0 0 10px rgba(0,0,0,0.05); */
@@ -656,7 +656,7 @@ body {
 }
 
 .mba-offer-section {
-  background: url("../img/MID-2.webp") center/cover no-repeat;
+  background: url("../img/MID.webp") center/cover no-repeat;
   padding: 80px 20px;
   color: #fff;
 }
@@ -668,7 +668,7 @@ body {
 
 .section-title {
   text-align: center;
-  font-size: 28px;
+  font-size: 35px;
   font-weight: 700;
   margin-bottom: 60px;
 }
